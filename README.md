@@ -1,0 +1,1 @@
+The included steel_alloy_grouped_cv_assignments.csv contains matched alloy groups, fold identifiers and image archive paths. Original mechanical property data and BMP image archive are not bundled; verify source licensing before redistributing.
